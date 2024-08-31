@@ -1,12 +1,12 @@
 Package: allegra-tools
-Version: 1.0.1
+Version: 1.0.2
 Architecture: amd64
-Maintainer: Your Name <your.email@example.com>
-Filename: dists/stable/main/binary-amd64/allegra-tools_1.0.1_amd64.deb
-Size: 480218
-MD5sum: 14477afdd874446018497c92632eeb09
-SHA1: e844dbffd8ca89b7bd59da63f47e4fcd51575f20
-SHA256: 404e481f9b75e5c3fb05082e03d8a45750e2cd3517cd36afb06c8470fbe60700
+Maintainer: CryptonomiKhan <as@versatus.io>
+Filename: dists/stable/main/binary-amd64/allegra-tools_1.0.2_amd64.deb
+Size: 480252
+MD5sum: ddf9c5efc4846bbc3396584f323f3fbd
+SHA1: 5f0e803c91177f5ea61bc0c858b9a2e8925ddcc3
+SHA256: 17bc00d107302f0c67348c8812608a49c97b3a40db363c50d9c92fe4e2fde4df
 Section: utils
 Priority: optional
 Description: Allegra Tools for file syncing and node discovery
