@@ -2,7 +2,7 @@ Origin: Allegra Tools Repository
 Label: Allegra Tools
 Suite: stable
 Codename: stable
-Version: 1.0.2
+Version: 1.0.3
 Architectures: amd64
 Components: main
 Description: Allegra Tools APT repository
