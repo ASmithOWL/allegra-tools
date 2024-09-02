@@ -1,12 +1,12 @@
 Package: allegra-tools
-Version: 1.0.5
+Version: 1.0.6
 Architecture: amd64
 Maintainer: Your Name <your.email@example.com>
-Filename: dists/stable/main/binary-amd64/allegra_tools_1.0.5_amd64.deb
-Size: 479944
-MD5sum: 366049a33c6fb6064d446e8db0265d6c
-SHA1: 7fb9557175456d43f1270acd4ede3a8120cdc9d3
-SHA256: 0ace9fab0f62185b0d1c7b0e9a27bc6f2d3721fafd3e10656f2e5de3291f507e
+Filename: dists/stable/main/binary-amd64/allegra_tools_1.0.6_amd64.deb
+Size: 479954
+MD5sum: e296cf30d4d06413eab100677fb3e480
+SHA1: 2c6498973e0ea1200d3ae8ca0523cf5171656928
+SHA256: 427ab7eb8bca40748cf0cc5818b3d44f8c0fa192fc8257814234b2aec9d7b75c
 Section: utils
 Priority: optional
 Description: Allegra Tools for file syncing and node discovery. This package provides tools for file synchronization and node discovery in Allegra environments.
